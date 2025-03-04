@@ -1,5 +1,19 @@
 # IMPROVISATION
 
+## Techniques pour se relancer 
+- Je sais que : on revient sur soi et la définition de son personnage \
+
+> Je sais que je suis...
+
+- Parce que : on explique la situation de son point de vue \
+
+> Parce que pour moi ce que tu dis...
+
+- Et en plus : on renchérit sur la proposition \
+
+> Et en plus on peut dire que...
+
+
 ## Gérer les instabilités
 
 - Le silence 
