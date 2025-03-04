@@ -12,7 +12,7 @@ flowchart LR
 ```
 
 ## Techniques pour se relancer 
-- Je sais que : on revient sur soi et la définition de son personnage \
+- Je sais que : on revient sur soi et la définition de ses personnages \
 
 > Je sais que je suis...
 
