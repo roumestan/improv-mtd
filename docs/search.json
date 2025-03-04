@@ -2,21 +2,21 @@
   {
     "objectID": "improv.html",
     "href": "improv.html",
-    "title": "IMPROVISATION",
+    "title": "Improv MTD",
     "section": "",
-    "text": "Je sais que : on revient sur soi et la définition de son personnage\n\n\n\nJe sais que je suis…\n\n\nParce que : on explique la situation de son point de vue\n\n\n\nParce que pour moi ce que tu dis…\n\n\nEt en plus : on renchérit sur la proposition\n\n\n\nEt en plus on peut dire que…\n\n\n\n\n\nLe silence\n\n\n- ça va exploser ! il faut évacuer !!!\n- … (laisser l’émotion nous envahir, ici la peur)\n\n\nLa répétition\n\n\n- ça va exploser ! il faut évacuer !!!\n- ça va exploser ? il faut évacuer ?\n\n\nLa constation\n\n\n- ça va exploser ! il faut évacuer !!!\n- je te trouve bien à cran en ce moment ! tu devrais te détendre."
+    "text": "flowchart LR\n  A[ça va exploser !] --&gt; B(haaaaaaa!)\n  B --&gt; C{Gestion instabilité}\n  C --&gt; D[Silence]\n  C --&gt; E[Répétition]\n  C --&gt; F[Constatation]\n\n\n\n\n\n\n\n\n\nJe sais que : on revient sur soi et la définition de son personnage\n\n\n\nJe sais que je suis…\n\n\nParce que : on explique la situation de son point de vue\n\n\n\nParce que pour moi ce que tu dis…\n\n\nEt en plus : on renchérit sur la proposition\n\n\n\nEt en plus on peut dire que…\n\n\n\n\n\nLe silence\n\n\n- ça va exploser ! il faut évacuer !!!\n- … (laisser l’émotion nous envahir, ici la peur)\n\n\nLa répétition\n\n\n- ça va exploser ! il faut évacuer !!!\n- ça va exploser ? il faut évacuer ?\n\n\nLa constation\n\n\n- ça va exploser ! il faut évacuer !!!\n- je te trouve bien à cran en ce moment ! tu devrais te détendre."
   },
   {
     "objectID": "improv.html#techniques-pour-se-relancer",
     "href": "improv.html#techniques-pour-se-relancer",
-    "title": "IMPROVISATION",
+    "title": "Improv MTD",
     "section": "",
     "text": "Je sais que : on revient sur soi et la définition de son personnage\n\n\n\nJe sais que je suis…\n\n\nParce que : on explique la situation de son point de vue\n\n\n\nParce que pour moi ce que tu dis…\n\n\nEt en plus : on renchérit sur la proposition\n\n\n\nEt en plus on peut dire que…"
   },
   {
     "objectID": "improv.html#gérer-les-instabilités",
     "href": "improv.html#gérer-les-instabilités",
-    "title": "IMPROVISATION",
+    "title": "Improv MTD",
     "section": "",
     "text": "Le silence\n\n\n- ça va exploser ! il faut évacuer !!!\n- … (laisser l’émotion nous envahir, ici la peur)\n\n\nLa répétition\n\n\n- ça va exploser ! il faut évacuer !!!\n- ça va exploser ? il faut évacuer ?\n\n\nLa constation\n\n\n- ça va exploser ! il faut évacuer !!!\n- je te trouve bien à cran en ce moment ! tu devrais te détendre."
   }

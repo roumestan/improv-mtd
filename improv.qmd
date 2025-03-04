@@ -1,4 +1,15 @@
-# IMPROVISATION
+---
+title: "Improv MTD"
+---
+
+```{mermaid}
+flowchart LR
+  A[ça va exploser !] --> B(haaaaaaa!)
+  B --> C{Gestion instabilité}
+  C --> D[Silence]
+  C --> E[Répétition]
+  C --> F[Constatation]
+```
 
 ## Techniques pour se relancer 
 - Je sais que : on revient sur soi et la définition de son personnage \

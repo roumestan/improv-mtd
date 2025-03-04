@@ -1,3 +1,15 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: "Improv' ta life ! Yo"
+  navbar:
+    left:
+      - href: improv.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    toc: true
